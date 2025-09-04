@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correctAnswer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "correctAnswer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correctAnswer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "correctAnswer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswer": 2,
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question": "Which programming language was developed by Brendan Eich?",
+      "options": ["Python", "Java", "JavaScript", "C++"],
+      "correctAnswer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["299,792,458 m/s", "300,000,000 m/s", "186,282 miles/s", "All of the above"],
+      "correctAnswer": 0,
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "Which country has the most time zones?",
+      "options": ["Russia", "United States", "China", "France"],
+      "correctAnswer": 3,
+      "difficulty": "hard"
+    }
+  ]
+}
